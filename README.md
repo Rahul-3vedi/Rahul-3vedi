@@ -24,3 +24,7 @@
 <code><a href="https://www.linkedin.com/in/rahul-trivedi-soft-en/"><img width="40px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
 <code><a href=""><img width="40px" src="https://img.icons8.com/color/8x/000000/facebook.png" title="Facebook"/></a></code>
 <code><a href="mailto:rahul.trivedi.software.en"><img width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-3vedi&theme=blue-green&layout=compact&count_private=true&show_icons=true&include_all_commits=true")](https://github.com/Rahul-3vesi/github-readme-stats)
+
+<img src = "https://github-readme-stats.vercel.app/api?username=Rahul-3vedi&theme=blue-green&count_private=true&show_icons=true&include_all_commits=true">
