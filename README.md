@@ -1,7 +1,7 @@
 ## Hi there, Welcome to my Profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-### I am Rahul Trivedi, an Aspiring Software Engineer and a 2nd year undergrad at MNNIT, Allahabad
+### I am Rahul Trivedi, an Aspiring Software Engineer and a final year undergrad at MNNIT, Allahabad
 
 - 🔭 I’m currently learning fundamentals of Operating System.
 - 😄 My areas of interest are  Android development, Competitive programming, DS algo and OOP's.
