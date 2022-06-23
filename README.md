@@ -3,7 +3,7 @@
 
 ### I am Rahul Trivedi, an Aspiring Software Engineer and a final year undergrad at MNNIT, Allahabad
 
-- 🔭 I’m currently learning fundamentals of Operating System.
+- 🔭 I’m currently learning fundamentals of Operating System ans DBMS.
 - 😄 My areas of interest are  Android development, Competitive programming, DS algo and OOP's.
 - 🔭 Checkout my android dev projects: [eM Texter]() ,[SocialMedia App]()
 - ⚡My competitive profiles: [Codechef(4 Star)](https://www.codechef.com/users/rahultrv_321) , [Leetcode](https://leetcode.com/rahultrivedi9125/) , [Codeforces](https://codeforces.com/profile/Tykonan) , [GFG](https://auth.geeksforgeeks.org/user/rahultrivedi9125/profile)  
